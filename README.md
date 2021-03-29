@@ -24,4 +24,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tirtharajsen01&" alt="tirtharajsen01" /></p>
 
-![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/footer.png)
+![](https://github.com/TirtharajSen01/TirtharajSen01/blob/main/media/footer.png)
