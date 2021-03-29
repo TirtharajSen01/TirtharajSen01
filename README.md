@@ -45,5 +45,11 @@
 
 ### Show some ❤️ by starring ⭐ some of the repositories!
 
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/tirtharajsen01/)
+
+
+<a href="https://dev.to/tirtharajsen01"><img height="50" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg"></a>
+</div>
+
 
 ![](https://github.com/TirtharajSen01/TirtharajSen01/blob/main/media/footer.png)
