@@ -23,3 +23,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tirtharajsen01&show_icons=true&locale=en" alt="tirtharajsen01" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tirtharajsen01&" alt="tirtharajsen01" /></p>
+
+![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/footer.png)
