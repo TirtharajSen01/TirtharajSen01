@@ -15,10 +15,6 @@
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tirtharajsen01&label=Profile%20views&color=0e75b6&style=flat" alt="tirtharajsen01" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tirtharajsen01" alt="tirtharajsen01" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/tirtharajsen01" target="blank"><img src="https://img.shields.io/twitter/follow/tirtharajsen01?logo=twitter&style=for-the-badge" alt="tirtharajsen01" /></a> </p>
