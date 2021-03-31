@@ -13,6 +13,7 @@
 ![living](https://img.shields.io/badge/living-Asansol-3c9)
 
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
 - 🌱 I’m currently learning NodeJs, Python and ReactJs
 - 👯 I’m looking to collaborate on C++ projects and Basic Web Dev stuff
 - 📫 How to reach me: You may follow me on [Twitter](https://twitter.com/sen_tirtharaj) 
